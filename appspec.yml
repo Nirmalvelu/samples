@@ -1,5 +1,6 @@
 version: 0.0
 os: windows
 files:
-  - source: \*.txt
+  - source: \
+    pattern: "**"
     destination: D:\Demo
