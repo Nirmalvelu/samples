@@ -1,5 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: \file*
+  - source: \*.txt
     destination: D:\Demo
